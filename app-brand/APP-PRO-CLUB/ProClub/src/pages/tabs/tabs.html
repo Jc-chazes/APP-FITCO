@@ -1,0 +1,11 @@
+<ion-tabs #tabs>
+    <ion-tab [root]="tab1Root" tabIcon="calendar" tabTitle="Agendar"></ion-tab>
+    <ion-tab [root]="tab2Root" tabIcon="basket" tabTitle="Market"></ion-tab>
+    <ion-tab [root]="tab3Root" tabIcon="heart" tabTitle="Estado"></ion-tab>
+    <ion-tab [root]="tab4Root" tabIcon="chatbubbles" tabTitle="Notificaciones"
+             tabBadge="{{notificationCount}}" show="{{allowNotifications}}" tabBadgeStyle="danger"
+
+    ></ion-tab>
+
+    <ion-tab [root]="tab5Root" tabIcon="contact" tabTitle="Perfil"></ion-tab>
+</ion-tabs>

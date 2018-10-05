@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "685599640730",
+    "firebase_url": "https://proclub-524b9.firebaseio.com",
+    "project_id": "proclub-524b9",
+    "storage_bucket": "proclub-524b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685599640730:android:228dd663c95c912f",
+        "android_client_info": {
+          "package_name": "com.ionicframework.proclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685599640730-ov07gkiqojmrmqkegcnasj1oo3ujvn49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0HmFT0XqF1lHKVyLZ5FXSN7YXUSN70dI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
